@@ -67,14 +67,15 @@ Portfolio-Website/
 ├── resume.html
 ├── contact.html
 ├── thankyou.html
+├── favicon.png
 │
 ├── css/
 │   └── style.css
 │
 ├── images/
-│   └── favicon.png
 │   └── NLogo.png
-│   └── social icons...
+│   └── linkedin.png
+│   └── github.png
 │
 ├── docs/
 │   └── Nicolas_Rossi_Technical_Resume.pdf
