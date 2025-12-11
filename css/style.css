@@ -553,3 +553,19 @@ textarea {
     align-items: flex-start;
   }
 }
+
+.btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #7851A9;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.2s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #5e3f87;
+    transform: scale(1.05);
+}
