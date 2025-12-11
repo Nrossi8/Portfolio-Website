@@ -25,7 +25,7 @@ This portfolio was built to:
 
 ---
 
-## ✨ Features
+## 🧰 Features
 
 ### 🔥 Modern, Clean Interface
 - Fully hand-coded using **HTML5**, **CSS3**, and **JavaScript**
@@ -44,7 +44,7 @@ This portfolio was built to:
 - Hosted entirely via GitHub Pages  
 - Fast and lightweight — no backend required
 
-### 🧰 Cybersecurity-Focused
+### 🔐 Cybersecurity-Focused
 Covers skills and experience in:
 
 - Linux, bash, and Python  
