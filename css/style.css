@@ -574,4 +574,9 @@ textarea {
   display: flex;
   flex-direction: column;
   gap: 14px;
+  align-items: flex-start; /* left alignment */
+}
+
+.resume-actions .btn {
+  width: fit-content; /* prevents full-width stretching */
 }
