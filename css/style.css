@@ -580,3 +580,10 @@ textarea {
 .resume-actions .btn {
   width: fit-content; /* prevents full-width stretching */
 }
+
+.secondary-btn {
+  background: transparent;
+  border: 2px solid #8b5cf6; /* same purple */
+  color: #8b5cf6;
+}
+
