@@ -100,7 +100,7 @@ Portfolio-Website/
 👤 Author
 
 Nicolas Rossi
-Cybersecurity Student • Pentesting Enthusiast • NECCDC Competitor
+Cybersecurity Student • Red & Blue Team Enthusiast
 
 📧 Email: ngrossi46@gmail.com
 
