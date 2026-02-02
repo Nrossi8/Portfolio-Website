@@ -569,3 +569,9 @@ textarea {
     background-color: #5e3f87;
     transform: scale(1.05);
 }
+
+.resume-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
